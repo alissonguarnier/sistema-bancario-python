@@ -39,7 +39,7 @@ Este projeto é uma versão orientada a objetos de um sistema bancário simples,
 ---
 
 ## 🖥️ Menu do Sistema
-
+```
 =============== MENU ================
 [d] Depositar
 [s] Sacar
@@ -47,7 +47,7 @@ Este projeto é uma versão orientada a objetos de um sistema bancário simples,
 [nu] Novo usuário
 [nc] Nova conta
 [q] Sair
-
+```
 
 ---
 ## ▶️ Como Executar
