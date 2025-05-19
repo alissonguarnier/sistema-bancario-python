@@ -50,7 +50,6 @@ Este projeto é uma versão orientada a objetos de um sistema bancário simples,
 
 
 ---
-
 ## ▶️ Como Executar
 
 1. **Clone o repositório** (caso aplicável):
@@ -58,9 +57,11 @@ Este projeto é uma versão orientada a objetos de um sistema bancário simples,
 ```bash
 git clone https://github.com/alissonguarnier/sistema-bancario-python.git
 cd sistema-bancario-python.git
+```
 
 ## 🧪 Exemplo de Uso
 
+```
 # Criar novo usuário
 [nu]
 Informe o CPF: 12345678900
@@ -83,6 +84,7 @@ Informe o valor do saque: 50.00
 
 # Ver extrato
 [e]
+```
 
 ## 📌 Regras de Negócio
 
@@ -92,10 +94,12 @@ Informe o valor do saque: 50.00
 - O histórico armazena data, tipo e valor de cada transação
 
 ## 📁 Estrutura dos Arquivos
+```
 bancario-alissonguarnier-varsao3.py   # Código principal
 bancario-alissonguarnier-varsao2.py   # Código antigo
 bancario-alissonguarnier.py           # Primeiro Código
 README.md                             # Documentação
+```
 
 ## 🧑‍💻 Autor
 Desenvolvido por Alisson Guarniêr como parte de uma atividade prática do Bootcamp de python da Dio.
